@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.eiryu</groupId>
-    <artifactId>reflection</artifactId>
+    <artifactId>reflection-utils</artifactId>
     <version>0.1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
